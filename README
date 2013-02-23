@@ -3,10 +3,6 @@ Written for Numerical Analysis class for cs.aueb.gr
 Instructor: P.Vassalos
 Date      : 19/02/2013
 
-Team ID   : 484
-Given ex. : A.19 B.13 C.18 D.4 E.12 F.3
-Selected  : A.19 B.13 D.4 F.3
-
 $ scilab -version
 Scilab version "5.3.3.1311149487"
 scilab-5.3.3

@@ -1,4 +1,4 @@
-// Exercise D4
+// Exercise F3
 // -----------
 // Given:
 //   y(0) = 1/3,
