@@ -7,3 +7,5 @@ $ scilab -version
 Scilab version "5.3.3.1311149487"
 scilab-5.3.3
 
+$ matlab >> version
+8.0.0.783 (R2012b)
